@@ -40,7 +40,7 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 4A
 PRODUCT_DEVICE := rolex
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_NAME := wave_rolex
+PRODUCT_NAME := bianca_rolex
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
